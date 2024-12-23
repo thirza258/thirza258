@@ -16,11 +16,8 @@ Welcome to my GitHub profile. I'm a passionate developer with interests in [your
 - [Project 3: Description and link]
 
 ## 📫 How to reach me
-- Email: [Your email]
-- LinkedIn: [Your LinkedIn profile]
-- Twitter: [Your Twitter handle]
-
-## ⚡ Fun fact
-- [A fun fact about you]
+- Email: thirzahmad@gmail.com
+- LinkedIn: [Thirza Ahmad](https://www.linkedin.com/in/thirza-ahmad/)
+- Twitter: [My Website](https://thirza258.github.io/)
 
 Thanks for visiting my profile!
