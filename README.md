@@ -1,14 +1,16 @@
 # Hi there, I'm Thirza! 👋
 
-Welcome to my GitHub profile. I'm a passionate developer with interests in [your interests]. Here you'll find information about my projects, skills, and how to get in touch with me.
+Welcome to my GitHub profile. I'm a passionate developer with interests in Integrating Software with AI. Here you'll find information about my projects, skills, and how to get in touch with me.
 
 ## 🔧 Technologies & Tools
-- Programming Languages: [List of languages]
-- Frameworks: [List of frameworks]
-- Tools: [List of tools]
+- Programming Languages: Python, Java, Javascript, Typescript, Dart
+- Frameworks: Django, Spring Boot, React, Vue, Tailwind, Flutter
+- Tools: 
 
 ## 🌱 Currently Learning
-- [What you are currently learning]
+- Financial Market Coursera
+- Quality Assurance
+- Machine Learning
 
 ## 🚀 Projects
 - [Project 1: Description and link]
@@ -18,6 +20,6 @@ Welcome to my GitHub profile. I'm a passionate developer with interests in [your
 ## 📫 How to reach me
 - Email: thirzahmad@gmail.com
 - LinkedIn: [Thirza](https://www.linkedin.com/in/thirza-ahmad/)
-- Twitter: [My Website](https://thirza258.github.io/)
+- Website: [My Website](https://thirza258.github.io/)
 
 Thanks for visiting my profile!
