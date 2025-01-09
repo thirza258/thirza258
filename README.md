@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm a passionate developer with interests in Integ
 ## 🔧 Technologies & Tools
 - Programming Languages: Python, Java, Javascript, Typescript, Dart
 - Frameworks: Django, Spring Boot, React, Vue, Tailwind, Flutter
-- Tools: 
+- Tools: Blender
 
 ## 🌱 Currently Learning
 - Financial Market Coursera
