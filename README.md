@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm a passionate developer with interests in Integ
 ## 🔧 Technologies & Tools
 - Programming Languages: Python, Java, Javascript, Typescript, Dart
 - Frameworks: Django, Spring Boot, React, Vue, Tailwind, Flutter
-- Tools: Blender
+- Tools: Blender, VS Code, Visual Studio
 
 ## 🌱 Currently Learning
 - Financial Market Coursera
@@ -13,13 +13,15 @@ Welcome to my GitHub profile. I'm a passionate developer with interests in Integ
 - Machine Learning
 
 ## 🚀 Projects
-- [Project 1: Description and link]
-- [Project 2: Description and link]
-- [Project 3: Description and link]
+- ChattyDesk
+- EasyBank
+- Gemini Japanese
+- Knowlxcircle
 
 ## 📫 How to reach me
 - Email: thirzahmad@gmail.com
 - LinkedIn: [Thirza](https://www.linkedin.com/in/thirza-ahmad/)
 - Website: [My Website](https://thirza258.github.io/)
+- Devpost: [My Portfolio](https://devpost.com/thirza258?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 Thanks for visiting my profile!
