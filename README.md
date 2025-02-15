@@ -1,7 +1,7 @@
 # Thirza Ahmad Tsaqif
 
 
-Jakarta, Indonesia | (+62)81290765711 | [thirzahmad@gmail.com](mailto:thirzahmad@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thirza-ahmad) | [Website](https://thirza258.github.io/)
+Jakarta, Indonesia | (+62)81290765711 | [thirzahmad@gmail.com](mailto:thirzahmad@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thirza-ahmad) | [Website](https://thirza258.github.io/) | [Devpost Portfolio](https://devpost.com/thirza258?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) 
 
 ---
 
