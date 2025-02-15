@@ -3,6 +3,20 @@
 
 Jakarta, Indonesia | (+62)81290765711 | [thirzahmad@gmail.com](mailto:thirzahmad@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thirza-ahmad) | [Website](https://thirza258.github.io/)
 
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thirza258&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirza258&layout=compact&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+[![Thirza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thirza258&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+
 Driven and self-motivated Information Systems student at the University of Indonesia with a passion
 for programming and design. A creative thinker with a strong work ethic, eager to tackle challenges and
 continuously enhance technical skills in innovative environments.
