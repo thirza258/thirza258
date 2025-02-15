@@ -6,8 +6,8 @@ Jakarta, Indonesia | (+62)81290765711 | [thirzahmad@gmail.com](mailto:thirzahmad
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thirza258&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirza258&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thirza258&show_icons=true&theme=dark\&rank_icon=github)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirza258&layout=compact&theme=radical&langs_count=12)
 
 ---
 
