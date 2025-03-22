@@ -60,7 +60,7 @@ continuously enhance technical skills in innovative environments.
 **Technologies:** Django REST Framework, PostgreSQL, Google Generative AI, TypeScript, Tailwind CSS, Azure Cloud Services, Vercel  
 - Designed and developed **Knowlxcircle**, a **crowdsourced learning platform** for collaborative learning circles.
 - Integrated **Google Generative AI** as an **automatic article creator and chatbot**.
-- Implemented the backend API using Django REST Framework and PostgreSQL, achieving a **40% data retrieval speed improvement** and handling **10,000+ requests daily with 99.9% uptime**.
+- Implemented the backend API using Django REST Framework and PostgreSQL, 
 - Built a modern web interface using TypeScript and Tailwind CSS.
 - Deployed the backend on **Azure Cloud Services** and the frontend on **Vercel**, improving **application scalability and load time**.
 
