@@ -24,5 +24,7 @@ Jakarta, Indonesia | [thirzahmad@gmail.com](mailto:thirzahmad@gmail.com) | [Link
 - **Simple Japanese Translator** - [translate.nevatal.tech](https://translate.nevatal.tech) - A Japanese-to-English and English-to-Japanese translation tool powered by AI.
 - **Simple Network Speed Tester** - [speed.nevatal.tech](https://speed.nevatal.tech) - A web-based tool for measuring internet download speed, upload speed, and latency.
 - **Self-Hosted N8N** - [n8n.nevatal.tech](https://n8n.nevatal.tech) - A self-hosted workflow automation platform for creating integrations and automating business processes.
+- **Divinity AI** - [muslim.nevatal.tech](https://muslim.nevatal.tech/) - A AI chat app that grounded to quran and hadiths sources and have long pipeline to make sure it not hallucinate
+
 
 
