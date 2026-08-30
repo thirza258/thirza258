@@ -18,6 +18,7 @@ Jakarta, Indonesia | [thirzahmad@gmail.com](mailto:thirzahmad@gmail.com) | [Link
 ## Featured
 
 - **RAGReader** - [rag.nevatal.tech](https://rag.nevatal.tech) - A RAG evaluation platform for testing, benchmarking, and analyzing retrieval-augmented generation systems.
+- **Corrective + Multi Hop RAG** - [crag.nevatal.tech](https://crag.nevatal.tech) - A Web implementation of my University Final Project about integrating Corrective and Multi and Hybrid RAG to reduce hallucination.
 - **Nevatal AI** - [chat.nevatal.tech](https://chat.nevatal.tech) - An AI chatbot platform featuring multiple tools and capabilities, including document processing, image generation, and conversational AI.
 - **URL Shortener** - [url.nevatal.tech](https://url.nevatal.tech) - A fast and lightweight URL shortening service with analytics and link management features.
 - **Wallpaper Generator** - [genshinwallpaper.nevatal.tech](https://genshinwallpaper.nevatal.tech) - Generates Genshin Impact wallpapers with daily commissions, resin status, and game-related information.
